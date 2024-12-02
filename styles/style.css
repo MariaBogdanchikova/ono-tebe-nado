@@ -167,7 +167,6 @@
   font-size: 40px;
   line-height: 46px;
   text-transform: uppercase;
-
 }
 
 .card {
@@ -242,7 +241,6 @@
   font-size: 20px;
   padding-left: 40px;
   padding-top: 30px;
-  
 }
 
 .about {
@@ -286,7 +284,6 @@
   line-height: 24px;
   padding-top: 100px;
   width: 685px;
-  
 }
 
 .about_text-two {
@@ -296,10 +293,10 @@
 } 
 
 .footer {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
-    padding: 170px 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  padding: 170px 50px;
 }
    
 
